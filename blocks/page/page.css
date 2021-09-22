@@ -1,7 +1,6 @@
 .page {
-  display: block;
   min-width: 320px;
   max-width: 1109px;
   margin: 0 auto;
-  font-family: Roboto, Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
 }
