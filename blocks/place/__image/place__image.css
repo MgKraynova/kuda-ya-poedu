@@ -1,0 +1,9 @@
+.place__image {
+  flex-shrink: 0;
+  display: block;
+  width: 50%;
+  min-height: 460px;
+  max-height: 460px;
+  object-fit: cover;
+  object-position: center;
+}
