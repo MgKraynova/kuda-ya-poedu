@@ -1,0 +1,18 @@
+.block-form__field {
+  display: inline-flex;
+  margin: 0;
+  margin-bottom: 16px;
+  padding: 0 12px;
+
+  font-size: 14px;
+  line-height: 26px;
+  font-weight: normal;
+  font-style: normal;
+
+  vertical-align: middle;
+  border: none;
+}
+
+.block-form__field::placeholder {
+  color: inherit;
+}

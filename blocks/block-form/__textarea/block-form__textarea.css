@@ -1,0 +1,18 @@
+.block-form__textarea {
+  height: 88px;
+  margin-bottom: 16px;
+  padding: 6px 12px;
+  box-sizing: border-box;
+
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: normal;
+  font-style: normal;
+
+  border: none;
+  resize: none;
+}
+
+.block-form__textarea::placeholder {
+  color: inherit;
+}
