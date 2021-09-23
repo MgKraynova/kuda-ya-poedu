@@ -1,16 +1,16 @@
 .intro__image {
-  width: 309px;
-  height: 309px;
+  width: 382px;
+  height: 382px;
   display: block;
-  margin-bottom: 113px;
-  margin-left: 147px;
-  margin-top: 73px;
-  margin-right: 91px;
+  margin-bottom: 140px;
+  margin-left: 200px;
+  margin-top: 93px;
+  /* margin-right: 189px; */
   object-fit: cover;
   object-position: center;
 }
 
-@media screen and (max-width: 1108px) {
+@media screen and (max-width: 1376px) {
   .intro__image {
     margin-right: auto;
     margin-left: auto;
@@ -19,8 +19,8 @@
 
 @media screen and (max-width: 1023px) {
   .intro__image {
-    width: 290px;
-    height: 290px;
+    width: 330px;
+    height: 330px;
   }
 }
 
@@ -35,8 +35,8 @@
 
 @media screen and (max-width: 600px) {
   .intro__image {
-    width: 240px;
-    height: 240px;
+    width: 220px;
+    height: 220px;
     margin-top: 15px;
     margin-bottom: 15px;
   }

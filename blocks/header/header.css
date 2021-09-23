@@ -1,13 +1,11 @@
 .header {
   display: flex;
   justify-content: space-between;
-  max-width: 1109px;
+  max-width: 1377px;
   min-width: 320px;
-  padding-right: 60px;
-  padding-left: 60px;
-  padding-top: 43px;
-  margin-left: auto;
-  margin-right: auto;
+  padding-right: 73px;
+  padding-left: 74px;
+  padding-top: 54px;
   box-sizing: border-box;
 }
 

@@ -1,18 +1,18 @@
 .header__item {
-  margin-right: 30px;
+  margin-right: 38px;
 }
 
 .header__item:last-of-type {
   margin-right: 0;
 }
 
-@media screen and (max-width: 424px) {
+@media screen and (max-width: 469px) {
   .header__item {
-    margin-right: 20px;
+    margin-right: 15px;
   }
 
   .header__item:last-of-type {
-    margin-right: 20px;
+    margin-right: 15px;
   }
 }
 
