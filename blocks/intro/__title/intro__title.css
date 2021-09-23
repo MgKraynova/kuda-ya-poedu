@@ -1,15 +1,15 @@
 .intro__title {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
-font-weight: bold;
-font-size: 10px;
-line-height: 12px;
-color: #FED1AD;
-text-transform: uppercase;
-margin-left: 0;
-margin-right: 0;
-margin-bottom: 28px;
-margin-top: 0;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 12px;
+  color: #FED1AD;
+  text-transform: uppercase;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 28px;
+  margin-top: 0;
 }
 
 @media screen and (max-width: 520px) {
