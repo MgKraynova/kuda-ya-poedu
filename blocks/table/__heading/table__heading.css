@@ -1,0 +1,13 @@
+.table__heading {
+  margin-top: 0;
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 22px;
+  text-transform: uppercase;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 12px;
+  color: #000000;
+}

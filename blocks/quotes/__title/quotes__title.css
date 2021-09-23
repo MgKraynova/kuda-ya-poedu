@@ -1,0 +1,25 @@
+.quotes__title {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 36px;
+  color: #010101;
+  max-width: 345px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 104px;
+}
+
+@media screen and (max-width: 767px) {
+  .quotes__title {
+    margin-bottom: 50px;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .quotes__title {
+    margin-bottom: 30px;
+  }
+}

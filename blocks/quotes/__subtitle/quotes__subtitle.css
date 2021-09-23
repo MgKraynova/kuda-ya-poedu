@@ -1,0 +1,13 @@
+.quotes__subtitle {
+  color: rgba(254, 209, 173, 1);
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 12px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 27px;
+}
