@@ -1,0 +1,9 @@
+.block-form__image {
+  display: block;
+  width: 50%;
+  min-height: 100%;
+  background-image: url(../../../images/airport-schedule.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
