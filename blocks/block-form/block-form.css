@@ -1,0 +1,6 @@
+.block-form {
+  width: 100%;
+  min-height: 540px;
+  display: flex;
+  background-color: #F2F2F2;
+}
