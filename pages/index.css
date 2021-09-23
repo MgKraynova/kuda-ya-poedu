@@ -20,5 +20,8 @@
 @import url(../blocks/block-form/__textarea/block-form__textarea.css);
 @import url(../blocks/block-form/__btn/block-form__btn.css);
 
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__content/video__content.css);
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
