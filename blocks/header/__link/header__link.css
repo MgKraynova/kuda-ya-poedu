@@ -9,6 +9,10 @@
   color: #000000;
 }
 
+.header__link:hover {
+  opacity: 0.75;
+}
+
 @media screen and (max-width: 424px) {
   .header__link {
     font-size: 12px;
