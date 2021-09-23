@@ -1,0 +1,10 @@
+.block-form__title {
+  max-width: 220px;
+  margin: 0;
+  margin-bottom: 66px;
+  padding: 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 36px;
+}
