@@ -1,9 +1,10 @@
 .intro {
   display: flex;
-  max-width: 1109px;
+  max-width: 1377px;
   margin-right: auto;
   margin-left: auto;
   box-sizing: border-box;
+  outline: 1px solid red;
 }
 
 @media screen and (max-width: 424px) {
