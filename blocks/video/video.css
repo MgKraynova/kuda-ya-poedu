@@ -2,7 +2,7 @@
   position: relative;
   display: block;
   width: 100%;
-  min-height: 666px;
+  min-height: 672px;
 }
 
 @media screen and (max-width: 1023px) {

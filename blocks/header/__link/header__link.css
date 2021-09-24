@@ -6,5 +6,15 @@
   font-size: 14px;
   line-height: 16px;
   color: #000000;
-  font-family: 'Roboto', sans-serif;
+}
+
+.header__link:hover {
+  opacity: 0.75;
+  transition: opacity 0.3s ease;
+}
+
+@media screen and (max-width: 424px) {
+  .header__link {
+    font-size: 12px;
+  }
 }
