@@ -24,9 +24,10 @@
   }
 }
 
-@media screen and (max-width: 424px) {
+@media screen and (max-width: 426px) {
   .quotes__title {
     margin-bottom: 30px;
     font-size: 30px;
+    line-height: 35px;
   }
 }

@@ -9,15 +9,8 @@
 
 @media screen and (max-width: 767px) {
   .header {
-    padding-right: 30px;
-    padding-left: 30px;
-    padding-top: 30px;
-  }
-}
-
-@media screen and (max-width: 424px) {
-  .header {
     padding-right: 10px;
     padding-left: 10px;
+    padding-top: 30px;
   }
 }
