@@ -1,10 +1,10 @@
 .block-form__textarea {
-  height: 88px;
-  margin-bottom: 16px;
-  padding: 6px 12px;
+  height: 110px;
+  margin-bottom: 20px;
+  padding: 8px 14px;
   box-sizing: border-box;
 
-  font-size: 14px;
+  font-size: 16px;
   line-height: 18px;
   font-weight: normal;
   font-style: normal;

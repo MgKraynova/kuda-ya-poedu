@@ -1,13 +1,13 @@
 .block-form__btn {
   display: inline-flex;
   align-items: center;
-  height: 28px;
+  height: 36px;
   margin: 0;
   margin-left: auto;
-  padding: 0 10px;
+  padding: 0 12px;
 
-  font-size: 14px;
-  line-height: 28px;
+  font-size: 16px;
+  line-height: 36px;
   font-weight: normal;
   font-style: normal;
   vertical-align: middle;
@@ -21,4 +21,11 @@
 
 .block-form__btn:hover {
   opacity: 0.75;
+}
+
+@media screen and (max-width: 767px) {
+  .block-form__btn {
+    width: 100%;
+    justify-content: center;
+  }
 }

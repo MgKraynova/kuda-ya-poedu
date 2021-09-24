@@ -1,5 +1,18 @@
 .video {
+  position: relative;
   display: block;
   width: 100%;
-  min-height: 540px;
+  min-height: 672px;
+}
+
+@media screen and (max-width: 1023px) {
+  .video {
+    min-height: 460px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .video {
+    min-height: 320px;
+  }
 }
