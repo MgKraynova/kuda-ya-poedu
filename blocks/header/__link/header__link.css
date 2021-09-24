@@ -1,0 +1,10 @@
+.header__link {
+  text-decoration: none;
+  display: block;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}

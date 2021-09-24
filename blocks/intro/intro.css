@@ -1,0 +1,9 @@
+.intro {
+  display: flex;
+}
+
+@media screen and (max-width: 424px) {
+  .intro {
+    flex-direction: column-reverse;
+  }
+}
