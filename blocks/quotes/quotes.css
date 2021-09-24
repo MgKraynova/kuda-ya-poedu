@@ -1,0 +1,28 @@
+.quotes {
+  padding-left: 74px;
+  padding-right: 74px;
+  padding-top: 144px;
+  padding-bottom: 154px;
+}
+
+@media screen and (max-width: 1023px) {
+  .quotes {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .quotes {
+    padding-top: 65px;
+    padding-bottom: 65px;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .quotes {
+    padding-left: 35px;
+    padding-right: 35px;
+  }
+}
+

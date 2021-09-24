@@ -24,6 +24,15 @@
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__text/place__text.css);
 
+@import url(../blocks/quotes/quotes.css);
+@import url(../blocks/quotes/__title/quotes__title.css);
+@import url(../blocks/quotes/__subtitle/quotes__subtitle.css);
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__text/table__text.css);
+@import url(../blocks/table/__content/table__content.css);
+
 @import url(../blocks/block-form/block-form.css);
 @import url(../blocks/block-form/__form/block-form__form.css);
 @import url(../blocks/block-form/__image/block-form__image.css);
