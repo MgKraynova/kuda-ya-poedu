@@ -1,3 +1,16 @@
 .place_reverse {
   flex-direction: row-reverse;
 }
+
+@media screen and (max-width: 1023px) {
+  .place_reverse {
+    direction: rtl;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place_reverse {
+    flex-direction: column-reverse;
+    direction: ltr;
+  }
+}
