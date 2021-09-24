@@ -4,7 +4,7 @@
   flex-direction: column;
   justify-content: flex-start;
   margin-left: 75px;
-  margin-top: 215px;
+  margin-top: 213px;
 }
 
 @media screen and (max-width: 1108px) {
@@ -21,7 +21,7 @@
   }
 }
 
-@media screen and (max-width: 424px) {
+@media screen and (max-width: 425px) {
   .intro__text-content {
     max-width: 290px;
   }
