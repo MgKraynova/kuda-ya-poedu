@@ -1,11 +1,15 @@
 .quotes {
-  max-width: 1109px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 58px;
-  padding-right: 58px;
-  padding-top: 115px;
-  padding-bottom: 124px;
+  padding-left: 74px;
+  padding-right: 74px;
+  padding-top: 144px;
+  padding-bottom: 154px;
+}
+
+@media screen and (max-width: 1023px) {
+  .quotes {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -17,8 +21,8 @@
 
 @media screen and (max-width: 424px) {
   .quotes {
-    padding-left: 26px;
-    padding-right: 26px;
+    padding-left: 35px;
+    padding-right: 35px;
   }
 }
 

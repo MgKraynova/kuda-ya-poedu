@@ -1,15 +1,21 @@
 .quotes__title {
-  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
-  font-size: 30px;
-  line-height: 36px;
+  font-size: 36px;
+  line-height: 46px;
   color: #010101;
-  max-width: 345px;
+  max-width: 430px;
   margin-top: 0;
   margin-left: 0;
   margin-right: 0;
-  margin-bottom: 104px;
+  margin-bottom: 130px;
+
+}
+
+@media screen and (max-width: 1023px) {
+  .quotes__title {
+    margin-bottom: 80px;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -21,5 +27,6 @@
 @media screen and (max-width: 424px) {
   .quotes__title {
     margin-bottom: 30px;
+    font-size: 30px;
   }
 }

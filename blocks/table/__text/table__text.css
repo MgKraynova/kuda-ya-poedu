@@ -1,9 +1,8 @@
 .table__text {
   margin: 0;
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 11.5px;
-  line-height: 17px;
+  font-size: 14px;
+  line-height: 21px;
   color: #000000;
 }
