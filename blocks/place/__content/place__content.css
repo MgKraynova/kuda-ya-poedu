@@ -1,5 +1,7 @@
 .place__content {
   display: flex;
   flex-direction: column;
-  padding: 54px 62px 74px;
+  margin-right: auto;
+  padding: 65px 0 92px 76px;
+  max-width: 410px;
 }

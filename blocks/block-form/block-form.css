@@ -1,6 +1,18 @@
 .block-form {
   width: 100%;
-  min-height: 540px;
+  min-height: 670px;
   display: flex;
   background-color: #F2F2F2;
+}
+
+@media screen and (max-width: 1023px) {
+  .block-form {
+    min-height: 460px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .block-form {
+    min-height: 0;
+  }
 }
