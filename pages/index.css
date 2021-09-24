@@ -9,6 +9,12 @@
 @import url(../blocks/header/__menu/header__menu.css);
 @import url(../blocks/header/__item/header__item.css);
 
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__text-content/intro__text-content.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(../blocks/intro/__image/intro__image.css);
+
 @import url(../blocks/places/places.css);
 @import url(../blocks/places/__list/places__list.css);
 @import url(../blocks/place/place.css);
@@ -17,3 +23,17 @@
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__text/place__text.css);
+
+@import url(../blocks/block-form/block-form.css);
+@import url(../blocks/block-form/__form/block-form__form.css);
+@import url(../blocks/block-form/__image/block-form__image.css);
+@import url(../blocks/block-form/__title/block-form__title.css);
+@import url(../blocks/block-form/__field/block-form__field.css);
+@import url(../blocks/block-form/__textarea/block-form__textarea.css);
+@import url(../blocks/block-form/__btn/block-form__btn.css);
+
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__content/video__content.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
